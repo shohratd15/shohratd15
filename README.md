@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shohrat!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Shohrat!;Go+Backend+Developer;gRPC+%7C+Kafka+%7C+Docker;Prometheus+%7C+Grafana+%7C+Jaeger)](https://git.io/typing-svg)
 
 💻 **Go Backend Developer**  
 Building reliable and scalable backend services with modern technologies.
@@ -9,6 +9,13 @@ Building reliable and scalable backend services with modern technologies.
 - 🎯 Goal: Become a strong backend developer in a great team
 - 🛠 Passionate about clean code, architecture, and automation
 - 📚 Always learning new technologies and design patterns
+
+---
+
+## 📫 Contact
+- Email: **shohratd15@gmail.com**
+- Telegram: [@shohratd15](https://t.me/shohratd15)
+- LinkedIn: [linkedin.com/in/shohratd15](https://www.linkedin.com/in/shohratd15/)
 
 ---
 
@@ -26,17 +33,18 @@ Building reliable and scalable backend services with modern technologies.
 
 ---
 
-## 📊 GitHub Stats
-![Shohrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohratd15&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohratd15&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=shohratd15&theme=tokyonight&hide_border=true)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohratd15&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohratd15&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-## 📫 Contact
-- Email: **shohratd15@gmail.com**
-- Telegram: [@shohratd15](https://t.me/shohratd15)
-- LinkedIn: https://www.linkedin.com/in/shohratd15/
+## 👁️ Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shohratd15&label=Profile+views&color=0e75b6&style=flat" />
+</p>
 
 ---
-
+⭐️ From [shohratd15](https://github.com/shohratd15)
