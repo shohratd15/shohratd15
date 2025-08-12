@@ -42,7 +42,7 @@ Building reliable and scalable backend services with modern technologies.
 ---
 
 ## 👁️ Visitors Count
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=shohratd15&label=Profile+views&color=0e75b6&style=flat" />
 </p>
 
