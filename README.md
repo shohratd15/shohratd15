@@ -18,15 +18,11 @@ Building reliable and scalable backend services with modern technologies.
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-65A8E3?style=for-the-badge&logo=jaeger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📌 Pinned Projects
-- [**Todolist API**](https://github.com/shohratd15/todolist-api) – REST API in Go with PostgreSQL  
-- [**My Simple Code**](https://github.com/shohratd15/my-simple-code) – Collection of useful Go code examples  
-- [**Study**](https://github.com/shohratd15/study) – Learning projects in Go
 
 ---
 
@@ -38,9 +34,9 @@ Building reliable and scalable backend services with modern technologies.
 ---
 
 ## 📫 Contact
-- Email: shohratd15@gmail.com
+- Email: **shohratd15@gmail.com**
 - Telegram: [@shohratd15](https://t.me/shohratd15)
 - LinkedIn: https://www.linkedin.com/in/shohratd15/
 
 ---
-⭐️ From [shohratd15](https://github.com/shohratd15)
+
